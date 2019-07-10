@@ -1,6 +1,7 @@
 # pmemkv
 
 [![Build Status](https://travis-ci.org/pmem/pmemkv.svg?branch=master)](https://travis-ci.org/pmem/pmemkv)
+[![PMEMKV version](https://img.shields.io/github/tag/pmem/pmemkv.svg)](https://github.com/pmem/pmemkv/releases/latest)
 
 Key/Value Datastore for Persistent Memory
 
